@@ -1,4 +1,4 @@
-# MonitorManager
+# YQMonitorManager
 利用RunLoop来监控APP的卡顿
 # 我们可以通过beforeSources和afterWaiting这两个状态来监听卡顿，具体设置代码如下
 
